@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Biggie-techz
-- 👀 I’m interested in Web Developmant
-- 🌱 I’m currently learning HTML, CSS & Javascript
+- 👀 A FRONT-END Web Developer
+- 🌱 HTML, CSS & JavaScript
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 How to reach me adewoleayonitemi@gmail.com
 
